@@ -1,0 +1,23 @@
+h1 {
+    width: 100%;
+    height: 55px;
+    background-color: black;
+    font-family: "Fredoka One", cursive;
+    line-height: 1.5;
+}
+h2 {
+    width: 100%;
+    height: 45px;
+    background-color: blueviolet;
+    font-family: "Kalam", cursive;
+    text-align: center;
+    line-height: 1.8;
+}
+h3 {
+    width: 100%;
+    height: 35px;
+    background-color: cornflowerblue;
+    text-align: right;
+    font-family: "Fredoka One", cursive;
+    line-height: 2.3;
+}
